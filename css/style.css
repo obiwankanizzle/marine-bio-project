@@ -1,0 +1,28 @@
+body {
+	
+	background-image: url(/images/o-WORLD-OCEANS-DAY-2013-facebook.jpg);
+	background-repeat: no-repeat;
+	z-index: -100;
+} 
+header .main-home {
+	background: rgba(34, 28, 18,.5);
+	padding:10px;
+	text-align: center;
+	position: absolute;
+	width: 100%;
+	z-index: +1;
+	clear: both;
+}
+.ocean-index{
+text-align: center;
+z-index: +1;
+}
+.clearfix:before, .clearfix:after {
+  content: " ";
+  display: table; }
+.clearfix:after {
+  clear: both; }
+  .video-stream {
+  	float: left;
+  }
+
