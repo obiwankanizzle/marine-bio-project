@@ -73,7 +73,7 @@ a.pretty:hover {
 #progress {
     background: green;
     width: 0;
-    height: 25px;
+    height: 18px;
 }
 .radius {
     border-radius: 6px;
